@@ -2,7 +2,7 @@
 
 [![Apache 2.0 License](https://img.shields.io/:license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Maven Central](https://img.shields.io/maven-central/v/org.leadpony.joy/joy-classic.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22org.leadpony.joy%22%20AND%20a:%22joy-classic%22)
-[![Javadocs](https://www.javadoc.io/badge/jakarta.json/jakarta.json-api.svg)](https://www.javadoc.io/doc/jakarta.json/jakarta.json-api/1.1.6/index.html)
+[![Javadocs](https://www.javadoc.io/badge/jakarta.json/jakarta.json-api.svg)](https://www.javadoc.io/doc/jakarta.json/jakarta.json-api/2.0.0/index.html)
 [![Build Status](https://travis-ci.org/leadpony/joy.svg?branch=master)](https://travis-ci.org/leadpony/joy)
 
 Joy is yet another implementation of [Jakarta JSON Processing API] (JSON-P).
